@@ -6,9 +6,9 @@ I created this game for my Interactive Media Development course at RIT. This was
 ## Sources 
 [Unity Project Files](ProjectFiles/Asteroids)  
 [C# Scripts](ProjectFiles/Asteroids/Assets/Scripts)  
-[Download and Play](ProjectFiles/Asteroids/Builds/InktoberAsteroids.zip)
-[Documentation](Documentation/Documentation.md)
-[Citations](Documentation/Citations.md)
+[Download and Play](ProjectFiles/Asteroids/Builds/InktoberAsteroids.zip)  
+[Documentation](Documentation/Documentation.md)  
+[Citations](Documentation/Citations.md)  
 ## Screenshots
 ![](ScreenCaptures/InktoberAsteroids_screen3.png?raw=true)
 ![](ScreenCaptures/AsteroidsShooting.gif?raw=true)
