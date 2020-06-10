@@ -10,7 +10,7 @@ I created this game for my Interactive Media Development course at RIT. This was
 [Documentation](Documentation/Documentation.md)  
 [Citations](Documentation/Citations.md)  
 ## Screenshots
-![](ScreenCaptures/InktoberAsteroids_screen3.png?raw=true)
+![](ScreenCaptures/InktoberAsteroidsDrawings.png?raw=true)
 ![](ScreenCaptures/AsteroidsShooting.gif?raw=true)
 ![](ScreenCaptures/AsteroidsShield.gif?raw=true)
 ![](ScreenCaptures/AsteroidsSplash.gif?raw=true)
