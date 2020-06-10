@@ -1,13 +1,14 @@
 # InktoberAsteroids
-## About
-Inktober Asteroids is an Asteroids clone with hand animated assets. Uses A, S, D, W for movement and SPACE to fire missles. You can download the build [here](ProjectFiles/Builds/InktoberAsteroids.zip) if you would like to play.
-## Documentation
-I created this game for my Interactive Media Development course at RIT. This was my first project assembled in Unity and was coded using C#. The sprites were hand drawn with ink on tracing papaer for Inktober. The purpose of the assignment was to utilize vector forces for controls and physics. I plan to return to this project at some point to flesh it out as a juicy, fully functional game with levels, upgrades, and more.
-## Sources 
-[Unity Project Files](ProjectFiles)  
-[C# Scripts](ProjectFiles/Assets/Scripts)  
-[Download and Play](ProjectFiles/Builds/InktoberAsteroids.zip)
-## Screenshots
-![](ScreenShots/InktoberAsteroids_screen3.png?raw=true)
-![](ScreenShots/InktoberAsteroids_screen1.png?raw=true)
-![](ScreenShots/InktoberAsteroids_screen2.png?raw=true)
+## Citations / Licensing
+These are the sound files used in this game. They all have licensing information on their respective pages linked below.
+## Music - Itch.io
+https://tallbeard.itch.io/three-red-hearts-prepare-to-dev
+## Sound Effects - FreeSounds.org 
+https://freesound.org/people/pumodi/sounds/150204/
+## Sound Effects - OpenGameArt.org
+https://opengameart.org/content/explosion-0
+https://opengameart.org/content/7-space-sounds
+https://opengameart.org/content/warp-engine-engage-sound
+https://opengameart.org/content/4-projectile-launches
+## Font
+The font included is part of my personal collection. Unfortunately, I'm not sure where I downloaded it, but all of my fonts came from free font type websites with open use lisencing.
