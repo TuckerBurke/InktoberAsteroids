@@ -15,5 +15,3 @@ I created this game for my Interactive Media Development course at RIT. This was
 ![](ScreenCaptures/AsteroidsShield.gif?raw=true)
 ![](ScreenCaptures/AsteroidsSplash.gif?raw=true)
 ![](ScreenCaptures/AsteroidsGameOver.gif?raw=true)
-![](ScreenCaptures/InktoberAsteroids_screen1.png?raw=true)
-![](ScreenCaptures/InktoberAsteroids_screen2.png?raw=true)
